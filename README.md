@@ -1,2 +1,6 @@
 # CS-300
-css to binary search tree
+CSV to binary search tree
+
+During this course, we explored how data structures and algorithms can help solve different types of problems efficiently. Our projects revolved around creating algorithms using various data structures, analyzing their efficiency, and understanding the key differences between them. I first approached each problem by carefully reading through the requirements and then analyzing the runtime and memory usage of each data structure to decide based on the results of which data structure would be most applicable. 
+
+One of the roadblocks I encountered was my IDE not being able to locate the CSV file used for loading course data. Sometimes debugging the project would resolve the issue, while other times I had to close and relaunch the IDE to fix it. I also faced challenges with the binary search tree (BST) structure, as I had no prior experience working with BSTs. My main struggle was correctly inserting and searching for courses in the tree. I was able to overcome these problems by carefully reviewing my code and referencing examples from ZyBooks to gain a better understanding of how BSTs should be implemented. From working on this project, I have improved at writing pseudocode before implementing actual code blocks. This really helped me be more organized and visualize what I needed to write ahead of time. It also has helped me format informational comments which are needed to have maintainable and readable code that others can use to later adapt for upcoming changes. 
